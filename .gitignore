@@ -2,3 +2,4 @@ alo
 *.log
 /*.xyz
 second_folder/abc.txt
+second_folder\my.txt
